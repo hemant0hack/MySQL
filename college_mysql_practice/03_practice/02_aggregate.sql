@@ -1,6 +1,7 @@
 USE college_db;
 
 -- 11. Count total students.
+
 -- 12. Count students department-wise.
 -- 13. Find average marks.
 -- 14. Find maximum marks.
